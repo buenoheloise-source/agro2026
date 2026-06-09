@@ -1,70 +1,29 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Agrinho 2026</title>
 
-<style>
-body{
-    margin:0;
-    font-family:Arial, sans-serif;
-    background:#f4f4f4;
-}
+<h1>🌱 Agrinho 2026</h1>
 
-header{
-    background:#2e8b57;
-    color:white;
-    text-align:center;
-    padding:40px;
-}
+<h2>Conectando o Campo e a Cidade</h2>
 
-section{
-    background:white;
-    margin:20px;
-    padding:20px;
-    border-radius:10px;
-    box-shadow:0 0 10px rgba(0,0,0,0.1);
-}
+<p>
+O Agrinho é um programa que incentiva a cidadania,
+a sustentabilidade e a valorização da agricultura.
+</p>
 
-h2{
-    color:#2e8b57;
-}
+<h2>Agricultura</h2>
 
-footer{
-    background:#2e8b57;
-    color:white;
-    text-align:center;
-    padding:15px;
-}
-</style>
-</head>
+<p>
+A agricultura produz alimentos e contribui para a economia do Brasil.
+</p>
 
-<body>
+<h2>Tecnologia no Campo</h2>
 
-<header>
-    <h1>🌱 AGRINHO 2026 🌱</h1>
-    <p>Conectando o Campo e a Cidade</p>
-</header>
+<p>
+Drones e máquinas modernas ajudam os agricultores a produzir mais.
+</p>
 
-<section>
-    <h2>O que é o Agrinho?</h2>
-    <p>
-        O Agrinho é um programa educacional que incentiva a cidadania,
-        a sustentabilidade e a valorização do campo.
-    </p>
-</section>
+<h2>Sustentabilidade</h2>
 
-<section>
-    <h2>Importância da Agricultura</h2>
-    <p>
-        A agricultura é responsável pela produção de alimentos,
-        roupas e matérias-primas utilizadas diariamente pela população.
-    </p>
-</section>
+<p>
+Cuidar do meio ambiente é importante para garantir um futuro melhor.
+</p>
 
-<section>
-    <h2>Tecnologia no Campo</h2>
-    <p>
-        Atualmente, drones, tratores modernos e sistemas inteligentes
-        ajudam os produtores a aumentar a produtividade e preservar os
+<p><b>Autora:</b> Heloíse Vitória</p>
