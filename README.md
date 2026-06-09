@@ -32,4 +32,18 @@
 
     <h2>Sustentabilidade</h2>
 
-    <
+<p>
+    Preservar o meio ambiente é fundamental para garantir qualidade
+    de vida para as futuras gerações.
+</p>
+
+<h2>Campo e Cidade</h2>
+
+<p>
+    O campo produz os alimentos que chegam às cidades. A cidade fornece
+    tecnologia e serviços que ajudam no desenvolvimento rural.
+</p>
+
+<hr>
+
+<p><strong>Desenvolvido por:</strong> Heloíse Vitória</p>
