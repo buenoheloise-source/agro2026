@@ -1,29 +1,35 @@
 
-<h1>🌱 Agrinho 2026</h1>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Agrinho 2026</title>
+</head>
+<body>
 
-<h2>Conectando o Campo e a Cidade</h2>
+    <h1>🌱 AGRINHO 2026</h1>
 
-<p>
-O Agrinho é um programa que incentiva a cidadania,
-a sustentabilidade e a valorização da agricultura.
-</p>
+    <h2>Conectando o Campo e a Cidade</h2>
 
-<h2>Agricultura</h2>
+    <p>
+        O Agrinho é um programa educacional que incentiva a cidadania,
+        a sustentabilidade e a valorização da agricultura.
+    </p>
 
-<p>
-A agricultura produz alimentos e contribui para a economia do Brasil.
-</p>
+    <h2>Agricultura</h2>
 
-<h2>Tecnologia no Campo</h2>
+    <p>
+        A agricultura é responsável pela produção de alimentos,
+        roupas e matérias-primas utilizadas pela população.
+    </p>
 
-<p>
-Drones e máquinas modernas ajudam os agricultores a produzir mais.
-</p>
+    <h2>Tecnologia no Campo</h2>
 
-<h2>Sustentabilidade</h2>
+    <p>
+        Drones, tratores modernos e sistemas inteligentes ajudam os
+        produtores a aumentar a produtividade e preservar recursos naturais.
+    </p>
 
-<p>
-Cuidar do meio ambiente é importante para garantir um futuro melhor.
-</p>
+    <h2>Sustentabilidade</h2>
 
-<p><b>Autora:</b> Heloíse Vitória</p>
+    <
